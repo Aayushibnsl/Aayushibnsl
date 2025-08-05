@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayushi Bansal
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently exploring web3 , LLMs , AI Agents
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me Email : aayushibansal324@gmail.com
 

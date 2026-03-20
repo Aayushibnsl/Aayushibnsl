@@ -1,60 +1,69 @@
-- 👋 Hi, I’m Aayushi Bansal
-- 👀 I’m a Full Stack Developer
-- 🌱 I’m currently exploring web3 , LLMs , AI Agents
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me Email : aayushibansal324@gmail.com
+<h1 align="center">Aayushi Bansal</h1>
+<p align="center">
+building systems • not just projects
+</p>
 
-🚀 About Me
+---
 
-I'm a Full-Stack Web Developer passionate about building impactful and innovative applications. Currently diving deep into MERN Stack Development, API Integration, and Web 3.0 Components.
+## whoami
 
-🔥 What I Do
+full-stack developer focused on  
+**scalable products, intelligent systems, and clean execution**
 
--🖥️ Full-Stack Web Development (MERN Stack)
+not here to “learn tech”  
+i build, break, optimize, repeat.
 
--🌐 API Integration & Web 3.0 Development
+---
 
--🤖 AI & Machine Learning Applications
+## current-focus
 
--🐾 Tech for Social Good & Mental Health
+- designing better product experiences (not just UI fixes)
+- working with **AI systems, LLM workflows & automation**
+- improving backend structure + performance thinking
+- making things actually usable, not just functional
 
--🚀 Open Source Contributions
+---
 
-🏆 Projects
+## thinking
 
--💬 Mental Health Chatbot – AI-driven chatbot for emotional support and mental well-being
--🐾 Paw Rescue – Platform to help stray animals find care and adoption
--✅ Daily Goals – Task & goal tracking web app for productivity
--📊 Exam Predictor – AI-powered exam question trend analyzer
+most people build features  
+i focus on:
+- why it should exist  
+- how it scales  
+- how it feels to use  
 
-🛠️ Tech Stack
+---
 
--Languages: JavaScript
--Frontend: HTML, CSS, React.js
--Backend: Node.js, Express.js
--Databases: MongoDB, SQL
--Tools & APIs: Postman, OpenAI API, Web 3.0 Components
+## build-mode
 
-🌱 Currently Learning
+i like working on things that:
+- solve something real  
+- are slightly complex  
+- force better decisions  
 
--Advanced Node.js & Backend Optimization
--Web 3.0 & Blockchain Integration
--AI-driven Web Applications
+---
 
+## stack (only what matters)
 
-<!---
-Aayushibnsl/Aayushibnsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
-</div>
+javascript • react • node  
+apis • system design • ai integrations  
+
+(no noise, no 20-tool lists)
+
+---
+
+## currently
+
+building. refining. leveling up.  
+
+---
+
+## contact
+
+📧 aayushibansal324@gmail.com  
+
+---
+
+<p align="center">
+  don't just scroll — check the work.
+</p>

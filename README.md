@@ -1,4 +1,5 @@
 <h1 align="center">Aayushi Bansal</h1>
+
 <p align="center">
 building systems • not just projects
 </p>
@@ -7,63 +8,81 @@ building systems • not just projects
 
 ## whoami
 
-full-stack developer focused on  
-**scalable products, intelligent systems, and clean execution**
+i build products that solve real problems.
 
-not here to “learn tech”  
-i build, break, optimize, repeat.
+currently interested in **AI systems, product engineering, and scalable backend architecture.**
 
----
-
-## current-focus
-
-- designing better product experiences (not just UI fixes)
-- working with **AI systems, LLM workflows & automation**
-- improving backend structure + performance thinking
-- making things actually usable, not just functional
+i enjoy taking ideas from **0 → shipped**, obsessing over details, and making software feel effortless to use.
 
 ---
 
-## thinking
+## currently building
 
-most people build features  
-i focus on:
-- why it should exist  
-- how it scales  
-- how it feels to use  
-
----
-
-## build-mode
-
-i like working on things that:
-- solve something real  
-- are slightly complex  
-- force better decisions  
+* AI-powered products & intelligent workflows
+* full-stack applications with modern architectures
+* developer tools & automation
+* products that people actually enjoy using
 
 ---
 
-## stack (only what matters)
+## how i think
 
-javascript • react • node  
-apis • system design • ai integrations  
+features are easy.
 
-(no noise, no 20-tool lists)
+good products come from asking:
 
----
-
-## currently
-
-building. refining. leveling up.  
+* should this exist?
+* how will this scale?
+* what happens when 10 users become 10,000?
+* does this actually make someone's life easier?
 
 ---
 
-## contact
+## tech
 
-📧 aayushibansal324@gmail.com  
+**Languages**
+
+JavaScript • TypeScript
+
+**Frontend**
+
+React • Next.js
+
+**Backend**
+
+Node.js • Express
+
+**Database**
+
+Supabase • PostgreSQL
+
+**Currently Exploring**
+
+LLMs • Agentic AI • System Design
+
+---
+
+## featured work
+
+ **Tempo** — a collaborative workspace built for startup teams.
+
+🏆 **MNIT SPHINX Winner** — built an AI solution that won 1st place.
+
+⚡ Building products, experimenting, and shipping consistently.
+
+---
+
+## find me
+
+📧 **[aayushibansal324@gmail.com](mailto:aayushibansal324@gmail.com)**
+
+💼 LinkedIn: *(add link)*
+
+🌐 Portfolio: *(coming soon)*
 
 ---
 
 <p align="center">
-  don't just scroll — check the work.
+Don't just read the README.<br>
+The repositories tell the real story.
 </p>

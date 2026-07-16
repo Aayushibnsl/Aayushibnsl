@@ -64,7 +64,7 @@ LLMs • Agentic AI • System Design
 
 ## featured work
 
- **Tempo** — a collaborative workspace built for startup teams.
+   **Tempo** — a collaborative workspace that onboarded 100+ users and facilitated 1,000+ tasks in just one week after launch.
 
 🏆 **MNIT SPHINX Winner** — built an AI solution that won 1st place.
 

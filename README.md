@@ -76,9 +76,8 @@ LLMs • Agentic AI • System Design
 
 📧 **[aayushibansal324@gmail.com](mailto:aayushibansal324@gmail.com)**
 
-💼 LinkedIn: *(add link)*
+💼 LinkedIn: https://www.linkedin.com/in/aayushi-bansal-620b12286/
 
-🌐 Portfolio: *(coming soon)*
 
 ---
 

@@ -57,8 +57,7 @@ When Claude Code, Cursor or Codex starts thinking, a small notch wakes up and pu
 
 <br>
 
-<img alt="Proof > promises" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=800&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=22&lines=PROOF+%3E+PROMISES">
-
+<img alt="Proof &gt; promises" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=800&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=22&lines=PROOF+%3E+PROMISES">
 <table>
 <tr>
 <td width="25%" align="center" valign="top"><img alt="1st" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=1st"><br><sub>at MNIT SPHINX ’25</sub></td>

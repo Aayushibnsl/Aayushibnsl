@@ -60,10 +60,10 @@ When Claude Code, Cursor or Codex starts thinking, a small notch wakes up and pu
 <img alt="Proof &gt; promises" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=800&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=22&lines=PROOF+%3E+PROMISES">
 <table>
 <tr>
-<td width="25%" align="center" valign="top"><img alt="1st" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=1st"><br><sub>at MNIT SPHINX ’25</sub></td>
+<td width="25%" align="center" valign="top"><img alt="1st" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=1st"><br><sub>at MNIT SPHINX ’25 NATIONAL HACKATHON WINNER</sub></td>
 <td width="25%" align="center" valign="top"><img alt="$1,200+" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=%241%2C200%2B"><br><sub>USD prize, for an AI-agent solution focused on meeting automation</sub></td>
-<td width="25%" align="center" valign="top"><img alt="20+" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=20%2B"><br><sub>hackathons, including Bolt</sub></td>
-<td width="25%" align="center" valign="top"><img alt="2026" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=2026"><br><sub>Outstanding Girl of the Year, Kalnidhi</sub></td>
+<td width="25%" align="center" valign="top"><img alt="20+" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=20%2B"><br><sub>hackathons, including Bolt(World largest hackathon)</sub></td>
+<td width="25%" align="center" valign="top"><img alt="2026" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=2026"><br><sub>Outstanding Girl of the Year, College</sub></td>
 </tr>
 </table>
 
@@ -98,20 +98,12 @@ When Claude Code, Cursor or Codex starts thinking, a small notch wakes up and pu
 
 <br>
 
-<img alt="GitHub" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=800&color=6366F1&center=true&vCenter=true&repeat=false&width=160&height=22&lines=GITHUB">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&border_radius=12&background=135,0D1117,1E1B4B&stroke=312E81&ring=818CF8&fire=C084FC&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=A5B4FC&sideLabels=A1A1AA&dates=71717A">
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&border_radius=12&background=135,F5F3FF,EEF2FF&stroke=C7D2FE&ring=6366F1&fire=A855F7&currStreakNum=1D1D1F&sideNums=1D1D1F&currStreakLabel=4F46E5&sideLabels=52525B&dates=71717A">
-</picture>
-
-<br>
 
 <img alt="Say hi" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=800&color=6366F1&center=true&vCenter=true&repeat=false&width=160&height=22&lines=SAY+HI">
 
 ### [aayushibansal324@gmail.com](mailto:aayushibansal324@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/aayushi-bansal-620b12286/) &nbsp;/&nbsp; [GitHub](https://github.com/YOUR_GITHUB_USERNAME) &nbsp;/&nbsp; 
+[LinkedIn](https://www.linkedin.com/in/aayushi-bansal-620b12286/) &nbsp;/&nbsp; [GitHub](https://github.com/Aayushibnsl) &nbsp;/&nbsp; 
 
 <sub>built between prompts.</sub>
 

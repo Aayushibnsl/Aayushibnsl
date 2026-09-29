@@ -60,7 +60,7 @@ When Claude Code, Cursor or Codex starts thinking, a small notch wakes up and pu
 <img alt="Proof &gt; promises" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=800&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=22&lines=PROOF+%3E+PROMISES">
 <table>
 <tr>
-<td width="25%" align="center" valign="top"><img alt="1st" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=1st"><br><sub>at MNIT SPHINX ’25 NATIONAL HACKATHON WINNER</sub></td>
+<td width="25%" align="center" valign="top"><img alt="1st" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=1st"><br><sub>at MNIT SPHINX ’25 NATIONAL HACKATHON </sub></td>
 <td width="25%" align="center" valign="top"><img alt="$1,200+" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=%241%2C200%2B"><br><sub>USD prize, for an AI-agent solution focused on meeting automation</sub></td>
 <td width="25%" align="center" valign="top"><img alt="20+" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=20%2B"><br><sub>hackathons, including Bolt(World largest hackathon)</sub></td>
 <td width="25%" align="center" valign="top"><img alt="2026" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=700&color=6366F1&center=true&vCenter=true&repeat=false&width=180&height=48&lines=2026"><br><sub>Outstanding Girl of the Year, College</sub></td>
@@ -103,7 +103,7 @@ When Claude Code, Cursor or Codex starts thinking, a small notch wakes up and pu
 
 ### [aayushibansal324@gmail.com](mailto:aayushibansal324@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/aayushi-bansal-620b12286/) &nbsp;/&nbsp; [GitHub](https://github.com/Aayushibnsl) &nbsp;/&nbsp; 
+[LinkedIn](https://www.linkedin.com/in/aayushi-bansal-620b12286/) &nbsp;/&nbsp; [GitHub](https://github.com/Aayushibnsl) 
 
 <sub>built between prompts.</sub>
 
